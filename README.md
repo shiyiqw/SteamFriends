@@ -19,6 +19,7 @@
 ## Steam好友列表
 | Avatar                                                                            | Name       | steamid                                                                     | is_friend   | BFD                 | removed_time        | Remark     |
 |:----------------------------------------------------------------------------------|:-----------|:----------------------------------------------------------------------------|:------------|:--------------------|:--------------------|:-----------|
+| ![](https://avatars.steamstatic.com/728d1799cd1ba3f33f7a504a7c79a652543db7fe.jpg) | GI2GI      | [76561198357228357](https://steamcommunity.com/profiles/76561198357228357/) | ❌           | 2025-06-13 19:16:03 | 2025-06-18 09:45:09 |            |
 | ![](https://avatars.steamstatic.com/4d5cfa2206d29ec854bc00096cd25eefa4094bef.jpg) | 抖音搜索爱玩电竞馆2 | [76561199841058951](https://steamcommunity.com/profiles/76561199841058951/) | ❌           | 2025-06-05 14:32:09 | 2025-06-15 09:54:46 |            |
 | ![](https://avatars.steamstatic.com/0b2febdead253dbeed26c68930af541034d003d8.jpg) | 抖音搜索爱玩电竞馆4 | [76561199842121318](https://steamcommunity.com/profiles/76561199842121318/) | ❌           | 2025-06-11 14:28:18 | 2025-06-14 09:42:01 |            |
 | ![](https://avatars.steamstatic.com/58327fe37f2b51f11bd68e392eb9a67ceaa4975d.jpg) | 香香草        | [76561199241062862](https://steamcommunity.com/profiles/76561199241062862/) | ❌           | 2025-05-31 08:31:22 | 2025-06-02 09:48:07 |            |
@@ -29,4 +30,3 @@
 | ![](https://avatars.steamstatic.com/05c9d811c75729caea21e24feb829e1f3f229b17.jpg) | DLO        | [76561199697308507](https://steamcommunity.com/profiles/76561199697308507/) | ✅           | 2025-06-04 04:18:14 |                     |            |
 | ![](https://avatars.steamstatic.com/febd8c98af10dd27b6815aa683c3bf4f90d5478e.jpg) | 贝勒爷  枫原万叶  | [76561199829377471](https://steamcommunity.com/profiles/76561199829377471/) | ✅           | 2025-06-07 09:57:44 |                     |            |
 | ![](https://avatars.steamstatic.com/d052ce557e27ca841a73807b67d519e9018582d1.jpg) | 茄皇9527     | [76561199636711299](https://steamcommunity.com/profiles/76561199636711299/) | ✅           | 2025-06-07 12:27:22 |                     |            |
-| ![](https://avatars.steamstatic.com/728d1799cd1ba3f33f7a504a7c79a652543db7fe.jpg) | GI2GI      | [76561198357228357](https://steamcommunity.com/profiles/76561198357228357/) | ✅           | 2025-06-13 19:16:03 |                     |            |
